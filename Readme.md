@@ -8,6 +8,9 @@ npm install
     Create <b>contacts.xlsx</b> index level.Be sure contacts start with country code like <b>90,31,32</b>.Run the project below command. Then scan your qr code via whatsapp application be sure authentication step fine.
 </p>
 
+<p>Here example contact excell screenshoot</p>
+
+![image info](./screenshoot/contacts.png)
 ## Run the Project
 ```
 npm run start
